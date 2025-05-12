@@ -8,8 +8,7 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "test": "echo \"No test specified\" && exit 0",
-    "commit": "gitmoji -c"
+    "test": "echo \"No test specified\" && exit 0"
   },
   "dependencies": {
     "react": "^19.1.0",
