@@ -6,7 +6,7 @@ import "./App.css";
 function App() {
   const [count, setCount] = useState<number>(0);
 
-  const num = 12;
+  const num = 13;
 
   console.log(num);
 
